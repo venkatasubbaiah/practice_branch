@@ -1,4 +1,3 @@
 Hello World !
 
-
-from Branch testing and folder one
+from Master branch..
